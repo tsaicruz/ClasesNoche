@@ -1,0 +1,34 @@
+Curso: Programacion orientada a objetos JAVA 150 hs 
+Dias: Lunes Miercoles y Viernes 19:00 hs a 22:00 hs
+Profe: Carlos Rios, c.rios@bue.edu.ar
+Github: https://github.com/crios2020/ObjetosNoche
+Materiales: aulasvirtuales.bue.edu.ar/my/
+El profesor usa Geany para escribir el codigo.
+Software : JDK Java Development kit (kit de desarrollo Java) 
+
+Java :  Es una especificacion , no es lenguaje, el fundamento de java era tener un lenguaje libre que pueda
+funcionar en cualquier sistema operativo y que no necesite compilarse.
+C# es Privativo, a diferencia de Java.
+Comunidad de java :  Java community process dictamina como es el lenguaje
+
+
+JDK : Generalmente se descarga el 11 pero es privativo
+OpenJDk : Tiene soporte de oracle y es totalmente libre y se puede elegir el soporte de software(Compiladores)
+Ejemplo JDk amazon, JDk redHat , JDK Microsoft, JDk IBM.
+
+
+Version LTS(Long term Support 8 años) Una version no LTS tiene soporte por 6 meses y las LTS por 8 años.
+Version 8 , 11 y 17 Son versiones LTS.
+Para ver la version de JAva tenemos que abrir el cmd y ponemos Java --version, en caso de querer instalar una nueva version 
+hay que desistalar y instalar la nueva version
+
+
+IDE (integrated development Enviroment) : 
+Editor Geany(No es capaz de factorizar, es un editor no un IDE)
+Visual Studio Code
+Eclipse (Es pesado para cuando generas mucho codigo)
+Sts(Sprint Tool Suite)
+Netbeans (Ya no se va usar)
+IntelliJ (Es descartado, Privativo)
+
+
