@@ -1,0 +1,12 @@
+maven o grade son herramientas de compilacion.
+maven es hecha por el apache fundation es libre
+gradle es libre y es hecha por google ( conocida porque es muy famosa en android ) 
+
+Spring boot cuando dice m1 o m2 o rc o dmr son versiones a prueba no vamos a correr el riesgo con versiones a prueba, no siempre se usa el software mas nuevo. 
+En este caso usamores el 2.6.4
+Group id = nombre del paquete todos en minuscula, sin mayuscula, se separa por .  se usa el dominion de la empresa.
+
+articaft = es el nombre del proyecto ( en este caso clase05) siempre en minuscula.
+
+Descripcion = lo que se quiera.
+
