@@ -1,0 +1,22 @@
+abrimos start.spring.io 
+
+project
+ponemos maven project 
+
+language 
+java
+
+Spring boot 2.6.5
+
+Project meta data
+
+group ar.org.centro8.curso.java
+
+artifact 
+clase08
+
+packaging
+Jar
+
+Java
+11
