@@ -1,0 +1,89 @@
+body {
+    /* Bloque de comentarios */
+    background-color: lightcoral;
+    padding: 5px;
+    /* Bloque de comentarios */
+}
+
+h1 {
+    background-color: rgb(133, 66, 81);
+    opacity: 0.6;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 20px;
+    /* borde redondeado */
+    margin: 8px;
+    text-align: center;
+    width: fit-content;
+    /* width fit-content para que el fucsia se achique a la letra */
+    margin: 10px auto;
+    font-family: cursive;
+}
+
+th {
+    background-color: rgb(133, 66, 81);
+    opacity: 0.6;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 20px;
+    /* borde redondeado */
+    margin: 8px;
+    text-align: center;
+    width: fit-content;
+    /* width fit-content para que el fucsia se achique a la letra */
+    margin: 10px auto;
+    font-family: cursive;
+}
+
+table {
+    background-color: rgb(211, 202, 198);
+    opacity: 0.6;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    margin: 10px auto;
+    /* margin 0px auto para que quede en el centro */
+}
+
+label {
+    /* aca esta el nombre, apellido, email, telefono etc*/
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+}
+
+
+/* para aplicar en varios elementos tenemos que poner input[type] */
+
+input[type=text],
+input[type=email] {
+    box-sizing: border-box;
+    background-color: rgb(92, 60, 60);
+    padding: 2px;
+    border-radius: 10px;
+    border-style: none;
+    color: rgb(158, 226, 226);
+}
+
+input[type=submit] {
+    box-sizing: border-box;
+    background-color: rgb(202, 124, 124);
+    margin-left: 70px;
+}
+
+input[type=reset] {
+    box-sizing: border-box;
+    background-color: rgb(202, 124, 124);
+}
+
+
+/*aca hacemos para que ambos estilos tengan el mismo */
+
+input[type=submit],
+input[type=reset] {
+    width: 80px;
+    padding: 5px;
+    border-radius: 12px;
+    border-style: none;
+    text-align: center;
+    font-weight: bolder;
+}
