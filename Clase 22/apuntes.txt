@@ -1,0 +1,3 @@
+DAO -> DATA ACCESS OBJECT
+
+db4free.net  nos dan una base de datos gratuita para probar cosas.
